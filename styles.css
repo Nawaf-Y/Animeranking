@@ -63,7 +63,7 @@
     background-color: lightyellow;
     margin-left: 1rem;
     margin-right: 1rem;
-    margin-bottom: 3.5rem;
+    margin-bottom: 1.25rem;
 }
 #classroomoftheelite{
     margin: 15px;
@@ -83,6 +83,7 @@ h3{
 
 .all{
     border: 10px double black;
+    margin: 8rem;
 }
 
 p{
